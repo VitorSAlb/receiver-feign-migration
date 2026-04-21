@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: reciver-feign-migration
+
+server:
+  port: 8081
